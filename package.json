@@ -7,6 +7,9 @@
     "type": "git",
     "url": "https://github.com/vzaar/vzaar-api-nodejs.git"
   },
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha"
+  },
   "keywords": [
     "vzaar",
     "node.js",
