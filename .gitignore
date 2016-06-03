@@ -4,3 +4,4 @@
 *.mp4
 api_envs.js
 npm-debug.log
+node_modules/
